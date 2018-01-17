@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"ConfigurationManager"},{"l":"InputOutput"},{"l":"Main"},{"l":"Main.Enums"},{"l":"Main.Model.role"},{"l":"Main.Model.type"},{"l":"Main.Model.typegen"},{"l":"StandfordParserManager"},{"l":"Weka"}]
